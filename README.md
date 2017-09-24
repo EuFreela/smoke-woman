@@ -10,4 +10,4 @@ Trata-se de um modelo PSD para manipulação de imagem.
 
 <hr>
 <p>Este é um modelo de resumo criado no Phoroshop CS5</p>
-<img src="https://preview.ibb.co/cLx0M5/SMOKE_WOMAN.jpg" width="300" height="300">
+<img src="https://preview.ibb.co/cLx0M5/SMOKE_WOMAN.jpg" width="350" height="300">

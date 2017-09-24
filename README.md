@@ -5,9 +5,9 @@ Trata-se de um modelo PSD para manipulação de imagem.
 
 <hr>
 <p>Author: Lameck Fernandes</p>
-<p>Modelo: Smoke WOman</p>
+<p>Modelo: Smoke Woman</p>
 <p>Arquivo: PSD</p>
 
 <hr>
 <p>Este é um modelo de resumo criado no Phoroshop CS5</p>
-<img src="hhttps://preview.ibb.co/cLx0M5/SMOKE_WOMAN.jpg" width="300" height="300">
+<img src="https://preview.ibb.co/cLx0M5/SMOKE_WOMAN.jpg" width="300" height="300">

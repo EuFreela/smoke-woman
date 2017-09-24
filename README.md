@@ -9,5 +9,5 @@ Trata-se de um modelo PSD para manipulação de imagem.
 <p>Arquivo: PSD</p>
 
 <hr>
-<p>Este é um modelo de resumo criado no Phoroshop CS5</p>
+<p>Este é um modelo de de manipulação de imagem criado com Phoroshop CS5</p>
 <img src="https://preview.ibb.co/cLx0M5/SMOKE_WOMAN.jpg" width="350" height="300">
